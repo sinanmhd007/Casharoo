@@ -1,10 +1,10 @@
-# 💸 Casharoo
+#  Casharoo
 
 A simple personal money management app built with Flutter.
 
 ---
 
-## 📱 Features
+##  Features
 
 * Add income and expenses
 * View transactions
@@ -13,14 +13,14 @@ A simple personal money management app built with Flutter.
 
 ---
 
-## 🛠 Tech
+##  Tech
 
 * Flutter
 * Hive
 
 ---
 
-## 🚀 Run
+##  Run
 
 ```bash
 git clone https://github.com/your-username/Casharoo.git
@@ -31,6 +31,6 @@ flutter run
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 sinanmhd007
